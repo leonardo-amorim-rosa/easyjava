@@ -5,7 +5,7 @@
     <artifactId>easyjava</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Easy Java</name>
-    <description>Powerfull of Dynamic Languages to Java Development</description>
+    <description>All Power of Dynamic Languages to Java Development</description>
 
     <dependencies>
         <dependency>
